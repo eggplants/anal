@@ -19,12 +19,16 @@ repos:
   hooks:
   - id: pretty-format-yaml
     args: [--autofix, --indent, '2']
+- repo: https://github.com/crate-ci/typos
+  rev: v1.16.8
+  hooks:
+  - id: typos
+- repo: https://github.com/igorshubovych/markdownlint-cli
+  rev: v0.35.0
+  hooks:
+  - id: markdownlint-fix
 - repo: https://github.com/tcort/markdown-link-check
   rev: v3.11.2
   hooks:
   - id: markdown-link-check
     args: [--config=.mdc.conf.json]
-- repo: https://github.com/igorshubovych/markdownlint-cli
-  rev: v0.35.0
-  hooks:
-  - id: markdownlint-fix
