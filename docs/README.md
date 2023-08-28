@@ -31,11 +31,13 @@
 
 # Introduction
 
-| WARNING: While this guide is meant to contain mostly technical information, it may also contain some explicit content, you are not allowed to read the contents of this document unless you are at least 18 years old. |
-| --- |
+<table><tr><th>
+WARNING: While this guide is meant to contain mostly technical information, it may also contain some explicit content, you are not allowed to read the contents of this document unless you are at least 18 years old.
+</th></tr></table>
 
-| WARNING: This document is not medical advice and you should use the information in this document on your own risk. |
-| --- |
+<table><tr><th>
+WARNING: This document is not medical advice and you should use the information in this document on your own risk.
+</th></tr></table>
 
 Anal sex has been known for a while, probably even as long as human history is recorded, but even then there is a lot of misinformation out there. To prevent this misinformation to spread further, this guide will give you details about anal sex and everything around it you need to know to have a pleasurable experience for you and your partner.
 
