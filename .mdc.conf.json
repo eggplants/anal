@@ -16,6 +16,9 @@
     },
     {
       "pattern": "^https://quizlet.com"
+    },
+    {
+      "pattern": "^https://www.anatomynote.com/human-anatomy/reproductive-system-anatomy/sectional-view-of-female-reproductive-organ-diagram"
     }
   ],
   "retryCount": 3,
