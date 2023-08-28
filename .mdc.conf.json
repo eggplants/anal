@@ -1,0 +1,24 @@
+{
+  "aliveStatusCodes": [
+    200,
+    206
+  ],
+  "fallbackRetryDelay": "30s",
+  "ignorePatterns": [
+    {
+      "pattern": "^https://www.researchgate.net"
+    },
+    {
+      "pattern": "^https://slate.com"
+    },
+    {
+      "pattern": "^https://www.magonlinelibrary.com"
+    },
+    {
+      "pattern": "^https://quizlet.com"
+    }
+  ],
+  "retryCount": 3,
+  "retryOn429": true,
+  "timeout": "20s"
+}
