@@ -1,6 +1,6 @@
 repos:
 - repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.4.0
+  rev: v4.6.0
   hooks:
   - id: check-case-conflict
   - id: check-json
@@ -15,20 +15,20 @@ repos:
   - id: trailing-whitespace
     files: \.(md|yml|yaml)$
 - repo: https://github.com/macisamuele/language-formatters-pre-commit-hooks
-  rev: v2.10.0
+  rev: v2.13.0
   hooks:
   - id: pretty-format-yaml
     args: [--autofix, --indent, '2']
 - repo: https://github.com/crate-ci/typos
-  rev: v1.16.8
+  rev: v1.20.9
   hooks:
   - id: typos
 - repo: https://github.com/igorshubovych/markdownlint-cli
-  rev: v0.35.0
+  rev: v0.39.0
   hooks:
   - id: markdownlint-fix
 - repo: https://github.com/tcort/markdown-link-check
-  rev: v3.11.2
+  rev: v3.12.1
   hooks:
   - id: markdown-link-check
     args: [--config=.mdc.conf.json]
