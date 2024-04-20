@@ -5,7 +5,7 @@
 - [Reasons to have anal sex](#reasons-to-have-anal-sex)
 - [Safety](#safety)
 - [Anatomy](#anatomy)
-- [Anatomy (Female)](#anatomy-female)
+- [Anatomy (female)](#anatomy-female)
 - [Anatomy (male)](#anatomy-male)
 - [PC muscle](#pc-muscle)
 - [Health](#health)
@@ -245,7 +245,7 @@ Between the sigmoid and descending colon you encounter a slight bend. Usually it
 
 This chapter has covered the anatomical basics that are common for both males and females, but this is where the similarities end. In next chapters we will review how each gender is different from anatomical stand point.
 
-# Anatomy (Female)
+# Anatomy (female)
 
 The most significant difference between males and females is in the reproductive organ area, but these differences also bring some changes to the anatomy of rectum. Consider the following diagram ([source](https://www.magonlinelibrary.com/doi/abs/10.12968/bjon.2018.27.22.1306)):
 
