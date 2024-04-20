@@ -19,7 +19,7 @@
 - [Materials](#materials)
 - [Poses](#poses)
 - [Butt plugs](#butt-plugs)
-- [Learning to enjoy anal](#Learning-to-enjoy-anal)
+- [Learning to enjoy anal](#learning-to-enjoy-anal)
 - [Orgasms](#orgasms)
 - [Orgasms (female)](#orgasms-female)
 - [Orgasms (male)](#orgasms-male)
@@ -91,6 +91,7 @@ So you are not a reader-type and want to just jump into it. Anal sex is not simp
 *TIP:* Pee after anal sex (both giver and receiver) to minimize risk of infection.
 
 **FAQ**:
+
 1. I sticked a dildo into my anus then started to thrust it very fast, but nothing happened, why?
 \- Anal sex cannot be approached the same way as males approach masturbation. It simply does not work that way.
 2. But where is the anal orgasm?
@@ -425,7 +426,7 @@ There is a dirty part of anal sex that many people don't like, for obvious reaso
 - Junk/processed foods, these foods leave your digestion system fast since they are highly processed and your body will discard the excess quite fast, these foods can also irritate your colon
 - Spicy foods, they trigger process to accelerate bowel movement that can be related to irritation ([source](https://www.verywellhealth.com/why-does-spicy-food-cause-diarrhea-1088717)), this also includes garlic and onion
 - Artificial sweeteners, even some of them have a label warning that they have a laxative effect (these can be found in a lots of sodas, chewing gums, candy and so on) ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6363527/))
-- Caffeine, it is a stimulant and known to stimulate your digestion system as well ([source](https://www.healthline.com/health-news/does-coffee-help-your-digestive-system-experts-arent-convinced)), remember that coffee, most teas, sodas and many more things contain it
+- Caffeine, it is a stimulant and known to stimulate your digestion system as well ([source](https://web.archive.org/web/20230911090640/https://www.healthline.com/health-news/does-coffee-help-your-digestive-system-experts-arent-convinced)), remember that coffee, most teas, sodas and many more things contain it
 - Excess fructose, it is a natural sugar found in fruits, but in excess amounts (usually found excessively in candies) it can have a laxative effect for some people, even from fresh fruits ([source](https://www.webmd.com/digestive-disorders/news/20030714/fructose-may-cause-digestive-problems))
 - Broccoli and cauliflower, they contain high amounts of vitamins that some people might not be able to tolerate ([source](https://www.livestrong.com/article/349377-stomach-cramps-after-eating-broccoli/))
 - Alcohol, it can change the way your body absorbs liquids (it can either cause diarrhea or constipation), this is especially true for beer and wine ([source](https://www.medicalnewstoday.com/articles/does-alcohol-make-you-poop))
@@ -436,7 +437,7 @@ Note: Each individual is different and there might be some foods that a person i
 
 There are a lot of foods you should be eating, but this is mostly going to be fiber and unprocessed, raw foods. Fiber is special since it adds bulk to your stool, this is suitable for your digestion system since it allows food to travel through your colon slowly. Below you can find a list of foods that are going to decrease the frequency of your bowel movement:
 
-- Whole grains, these foods are unprocessed and contain complex carbohydrates that take a long time to digest, but they also contain fiber ([source](https://healthyeating.sfgate.com/whole-grains-bowel-movements-10363.html)), these are quinoa, rya, brown rice, lentils, wholegrain pasta and many others
+- Whole grains, these foods are unprocessed and contain complex carbohydrates that take a long time to digest, but they also contain fiber ([source](https://web.archive.org/web/20230202022212/https://healthyeating.sfgate.com/whole-grains-bowel-movements-10363.html)), these are quinoa, rya, brown rice, lentils, wholegrain pasta and many others
 - Vegetables, most of them will contain fiber, some examples are carrots, beets, artichokes and many more
 - Fruits, most of them also contain fiber, some examples are apples, bananas, oranges and many more
 - Berries, some examples are raspberries, strawberries, blueberries and many more
@@ -848,7 +849,7 @@ Sex toys can be made out wide range of materials, these materials have different
 
 There are a few causes that make sex toy materials potentially dangerous to use and the most common is by using porous materials. Sex toys made out of materials that are porous tend to be a lot cheaper since you can have air pockets to increase the volume of the toy, but this comes at a significant drawback. Since porous sex toys have small air pockets, these pockets can be a perfect breeding ground for various bacteria, sadly not even dedicated sex toy cleaners are not able to remove the bacteria completely and you can experience significant bacteria growth over time that can result in infection ([source](https://www.nytimes.com/wirecutter/guides/how-to-clean-sex-toys/)). The best option to avoid is to simply avoid cheap toys made out of porous materials.
 
-Another crucial aspect is that some toys can contain phthalates. These are chemical compounds that make plastic much softer, phthalate are used in various products including cosmetics, but there have recently been concerns about its toxicity, some studies even have found correlation between problems with neurodevelopment , hyperactivity syndrome, damage to kidneys and even reproductive organs ([source](https://noharm-uscanada.org/issues/us-canada/phthalates-and-dehp)). Some studies even go as far to claim that plastic intake may be shrinking the size of male's penis ([source](https://www.menshealth.com.au/study-links-plastic-to-smaller-genitals?category=news)). There are some caveats in the studies that concluded this correlation, but for your own safety you should look for toys that do not contain phthalates, this is usually a strong advertisement point for companies so they usually make it quite visible, if their toys are phthalates-free.
+Another crucial aspect is that some toys can contain phthalates. These are chemical compounds that make plastic much softer, phthalate are used in various products including cosmetics, but there have recently been concerns about its toxicity, some studies even have found correlation between problems with neurodevelopment , hyperactivity syndrome, damage to kidneys and even reproductive organs ([source](https://web.archive.org/web/20231003064828/https://noharm-uscanada.org/issues/us-canada/phthalates-and-dehp)). Some studies even go as far to claim that plastic intake may be shrinking the size of male's penis ([source](https://www.menshealth.com.au/study-links-plastic-to-smaller-genitals?category=news)). There are some caveats in the studies that concluded this correlation, but for your own safety you should look for toys that do not contain phthalates, this is usually a strong advertisement point for companies so they usually make it quite visible, if their toys are phthalates-free.
 
 As mentioned before, companies can create their own blend to create a new material, but usually they fall into known categories. Below you can find the most common types of materials that CAN be toxic:
 
@@ -959,6 +960,7 @@ Chances are that you are reading this guide because your partner pressures you d
 When you get into any kind of anal play, you are greeted with various new sensations that most people will not find pleasant since they are familiar with using their anus and rectum for defecating, in other words they are used to objects exiting their rectum, not entering it. They are also not used to touches around the anus area or inside the rectum. They associate movement in the rectum with going to the toilet, not arousing sensations. Association is key to learning to enjoy anal.
 
 We can divide the journey to enjoy anal into these milestones:
+
 - Enjoying touches around the anus
 - Enjoying anal sphincter play
 - Overcoming the reflex of defecating
@@ -978,7 +980,7 @@ Note: If you touch your anus and feel discomfort, then it may be due to your min
 
 Note: The last two stages can overlap. Many people find that overcoming the defecation reflex is very difficult, but combining the principles of the last stage helps a lot.
 
-Note: If your rectum is not clean, then it is more likely that you will experience the urge to defecate. Consider using methods described in the [Cleansing](#Cleansing) chapter. It is better that you can avoid using liquids to cleanse yourself since the training process requires frequent sessions and it is not recommended to do frequent cleansing.
+Note: If your rectum is not clean, then it is more likely that you will experience the urge to defecate. Consider using methods described in the [Cleansing](#cleansing) chapter. It is better that you can avoid using liquids to cleanse yourself since the training process requires frequent sessions and it is not recommended to do frequent cleansing.
 
 **Associating anal stimulation with pleasure:** Arguably the most important stage. Let's make it very clear, **it is very unlikely for you to learn to enjoy anal without constant stimulation on your genitals**. At this stage you should incorporate masturbating with your anal training sessions. The principle is very simple, while you penetrate your anus, you rub your penis/clitoris, but it can become a bit difficult. If you still experience any discomfort when creating any kind of anal stimulation, then it is going to be very likely that your levels or arousal drops and stimulating your genitals is not going to do much. You should make sure that you can find an environment, sex toys, visual or audio materials or any other kind of addition to your regular anal training sessions that can help you get aroused. Some people get highly aroused from just the thought of having anal sex, but some need constant mental or physical stimulation to keep arousal levels high during anal sex. The goal is simple, associate anal stimulation with pleasure by masturbating when stimulating yourself anally. Orgasm while you penetrate yourself anally.
 

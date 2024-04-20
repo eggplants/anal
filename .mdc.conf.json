@@ -19,6 +19,9 @@
     },
     {
       "pattern": "^https://www.anatomynote.com/human-anatomy/reproductive-system-anatomy/sectional-view-of-female-reproductive-organ-diagram"
+    },
+    {
+      "pattern": "^#"
     }
   ],
   "retryCount": 3,
