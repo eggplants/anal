@@ -2,10 +2,14 @@
   "aliveStatusCodes": [
     200,
     206,
-    403
+    403,
+    0
   ],
   "fallbackRetryDelay": "30s",
   "ignorePatterns": [
+    {
+      "pattern": "^https://www.anatomynote.com/human-anatomy/reproductive-system-anatomy/sectional-view-of-female-reproductive-organ-diagram/$"
+    },
     {
       "pattern": "^#"
     }

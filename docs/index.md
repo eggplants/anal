@@ -113,7 +113,7 @@ To many it may be hard to understand why would you want to have anal sex. Accord
 
 While there have not been a widespread study that specifically researches the success rate of reaching orgasm through anal sex (the National Survey of Sexual Health and Behavior did not have sufficient participants), there do seem to be a noticeable amount of reports from individuals that they can reach an orgasm through anal sex. The results of this survey are reviewed in an article that females that engaged into anal sex reached orgasms a lot more often than with any other type of sex, you can read more about this in the article [here](https://metro.co.uk/2015/08/25/this-is-the-best-way-to-give-a-woman-an-orgasm-apparently-5359272/)
 
-An article tries to example how women that engage into anal sex are more likely to reach any type of an orgasm, you can read about this [here](https://slate.com/technology/2010/10/why-do-women-who-have-anal-sex-get-more-orgasms.amp).
+An article tries to example how women that engage into anal sex are more likely to reach any type of an orgasm, you can read about this [here](https://slate.com/technology/2010/10/why-do-women-who-have-anal-sex-get-more-orgasms.html).
 
 Another article describes how similar are the pelvic floor muscle contractions (a muscle that surrounds nerves that are connected to your genitalia) during anal and vaginal orgasms, you can view the article [here](https://lioness.io/blogs/sex-guides/anal-orgasms-vs-vaginal-orgasms-double-penetration).
 
