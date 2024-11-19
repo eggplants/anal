@@ -1,25 +1,11 @@
 {
   "aliveStatusCodes": [
     200,
-    206
+    206,
+    403
   ],
   "fallbackRetryDelay": "30s",
   "ignorePatterns": [
-    {
-      "pattern": "^https://www.researchgate.net"
-    },
-    {
-      "pattern": "^https://slate.com"
-    },
-    {
-      "pattern": "^https://www.magonlinelibrary.com"
-    },
-    {
-      "pattern": "^https://quizlet.com"
-    },
-    {
-      "pattern": "^https://www.anatomynote.com/human-anatomy/reproductive-system-anatomy/sectional-view-of-female-reproductive-organ-diagram"
-    },
     {
       "pattern": "^#"
     }
