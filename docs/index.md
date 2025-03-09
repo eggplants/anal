@@ -343,7 +343,7 @@ The area between the anus and the penis is quite sensitive and is called the per
 
 ![Anatomy male perineum](images/anatomy_male_perineum.jpg "anatomy male perineum")
 
-Right next yo the prostate you can find seminal vesicles. These are two small glands that store and produce the majority of the fluid that makes up semen. During ejaculation, the fluid from the seminal vesicles is expelled into the ejaculatory duct where it can then move on to mix with sperm and other reproductive fluids ([source](https://www.healthline.com/human-body-maps/seminal-vesicles/male#:~:text=The%20seminal%20vesicles%20are%20two,sperm%20and%20other%20reproductive%20fluids.)). Since these glands are very close to the prostate and it is responsible of making the majority of seminal fluid, then isolated the prostate and achieving a prostate induced orgasm is going to be a little difficult. Consider the following diagram ([source](https://www.macmillan.org.uk/cancer-information-and-support/prostate-cancer/the-prostate)):
+Right next yo the prostate you can find seminal vesicles. These are two small glands that store and produce the majority of the fluid that makes up semen. During ejaculation, the fluid from the seminal vesicles is expelled into the ejaculatory duct where it can then move on to mix with sperm and other reproductive fluids ([source](https://www.webmd.com/men/seminal-vesicle-what-to-know)). Since these glands are very close to the prostate and it is responsible of making the majority of seminal fluid, then isolating the prostate and achieving a prostate induced orgasm is going to be a little difficult. Consider the following diagram ([source](https://www.macmillan.org.uk/cancer-information-and-support/prostate-cancer/the-prostate)):
 
 ![Anatomy male seminal vesicle](images/anatomy_male_seminal_vesicle.jpg "anatomy male seminal vesicle")
 
@@ -432,7 +432,7 @@ There is a dirty part of anal sex that many people don't like, for obvious reaso
 - Artificial sweeteners, even some of them have a label warning that they have a laxative effect (these can be found in a lots of sodas, chewing gums, candy and so on) ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6363527/))
 - Caffeine, it is a stimulant and known to stimulate your digestion system as well ([source](https://web.archive.org/web/20230911090640/https://www.healthline.com/health-news/does-coffee-help-your-digestive-system-experts-arent-convinced)), remember that coffee, most teas, sodas and many more things contain it
 - Excess fructose, it is a natural sugar found in fruits, but in excess amounts (usually found excessively in candies) it can have a laxative effect for some people, even from fresh fruits ([source](https://www.webmd.com/digestive-disorders/news/20030714/fructose-may-cause-digestive-problems))
-- Broccoli and cauliflower, they contain high amounts of vitamins that some people might not be able to tolerate ([source](https://www.livestrong.com/article/349377-stomach-cramps-after-eating-broccoli/))
+- Broccoli and cauliflower, they contain high amounts of vitamins that some people might not be able to tolerate ([source](https://web.archive.org/web/20250116121324/https://www.livestrong.com/article/349377-stomach-cramps-after-eating-broccoli/))
 - Alcohol, it can change the way your body absorbs liquids (it can either cause diarrhea or constipation), this is especially true for beer and wine ([source](https://www.medicalnewstoday.com/articles/does-alcohol-make-you-poop))
 
 This is quite a long list and you do need to understand that there is no point to cut all of these foods from your diet, this is only a list of some of the most common foods that can cause bowel movements. If you do experience too frequent bowel movements or your stool is too soft, then consider going through this list to find foods that may have been causing you this. Experiment with various combinations to see if you can find a way keep your stool's consistency.
@@ -1199,7 +1199,7 @@ While there is no clear simple way that will guarantee an anal orgasm, we believ
 - Prepare yourself for anal: This is up to you, some people want to do an enema, but you need to do a  [Warmup](#warmup) as a bare minimum. You want your anus to be ready to be stretched.
 - Get comfortable: It is important to feel un-distracted, safe, calm and relaxed. Lock your doors, make a cozy environment, take a bath and so on. If all you think about is work and problems, then you need to try again, your mind needs to be in a mindset that is ready to enjoy pleasure.
 - Get aroused: Do whatever it takes to get yourself aroused. Check the [Sexual desire](#sexual-desire) chapter for tips.
-- Get lube: Get quite a bit lube, make sure you read [Lube](#lube) so you can find the best lube that suits you.
+- Get lube: Get quite a bit lube, make sure you read the [Lube](#Lube) chapter so you can find the best lube that suits you.
 
 Now for the steps. While it is never a clear step-by-step process when it comes to sexual pleasure, we believe you want one so here are steps you should take that are going to increase the chances of getting an anal orgasm (yes, it does not guarantee, you need to accept this fact). If not an anal orgasm, we are certain you will enjoy the process a lot either way.
 
