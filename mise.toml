@@ -1,0 +1,43 @@
+[tools]
+claude = "latest" # [skip ci]
+"npm:markdown-link-check" = "latest"
+"npm:markdownlint-cli" = "latest"
+pinact = "latest" # [skip ci]
+typos = "latest"
+yamlfmt = "latest"
+
+[tasks."lint:typos"]
+description = "Check typos"
+run = "typos"
+
+[tasks."lint:markdownlint"]
+description = "Lint Markdown files"
+run = "markdownlint ."
+
+[tasks."lint:yamlfmt"]
+description = "Check YAML formatting"
+run = "yamlfmt -lint ."
+
+[tasks."lint:markdown-link-check"]
+description = "Check broken links in Markdown files"
+run = "markdown-link-check --quiet --config .mdc.conf.json README.md docs/*.md"
+
+[tasks."fix:typos"]
+description = "Fix typos"
+run = "typos --write-changes"
+
+[tasks."fix:markdownlint"]
+description = "Fix Markdown files"
+run = "markdownlint --fix ."
+
+[tasks."fix:yamlfmt"]
+description = "Format YAML files"
+run = "yamlfmt ."
+
+[tasks.pre-commit]
+description = "Run checks on pre-commit"
+depends = ["fix:*"]
+
+[tasks.ci]
+description = "Run CI checks"
+depends = ["lint:*"]
